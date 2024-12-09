@@ -82,7 +82,7 @@ export default function Home() {
               rel="noopener noreferrer"
             >
               <Image
-                src="/instagram.png"
+                src="/Instagram.png"
                 alt="Instagram Icon"
                 width={50}
                 height={50}
