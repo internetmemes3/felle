@@ -49,7 +49,7 @@ export default function Home() {
           <div className="absolute bottom-0 left-0">
             <Image
               src="/felle.png"
-              alt="felle Image"
+              alt="felle"
               width={500}
               height={500}
               className="object-contain"
