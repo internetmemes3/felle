@@ -21,7 +21,7 @@ export default function Home() {
             </a>
             <a
               className="text-lg sm:text-2xl text-white cursor-pointer hover:underline"
-              href="https://dexscreener.com/" target="_blank" rel="noopener noreferrer"
+              href="https://dexscreener.com/solana/crkpveq7g9riwkrwkjdzs4itolhc6vtyp3uhc2n4sra4" target="_blank" rel="noopener noreferrer"
             >
               Dexscreener
             </a>
@@ -41,6 +41,7 @@ export default function Home() {
         </div>
         <div className="w-3/4 px-4 sm:px-10 lg:px-20 text-center sm:text-left">
           <p className="text-white text-sm sm:text-base leading-relaxed">
+              8DqmSDWDik5cpixw149KCth6wPz66eUsP7HKAV4pump
           </p>
         </div>
       </main>
