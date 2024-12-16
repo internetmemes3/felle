@@ -52,7 +52,7 @@ export default function Home() {
               alt="felle"
               width={500}
               height={500}
-              className="object-contain"
+              className="w-[250px] md:w-[500px] object-contain"
             />
           </div>
           <div className="absolute bottom-6 right-0 flex space-x-8 mr-4 ">
