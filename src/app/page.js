@@ -39,8 +39,8 @@ export default function Home() {
             Your browser does not support the video tag.
           </video>
         </div>
-        <div className="w-3/4 px-4 sm:px-10 lg:px-20 text-center sm:text-left">
-          <p className="text-white text-sm sm:text-base leading-relaxed">
+        <div className="w-3/4 px-4 sm:px-10 lg:px-20 flex items-center justify-center text-center sm:text-left">
+          <p className="text-white text-sm sm:text-base flex items-center justify-center leading-relaxed">
               8DqmSDWDik5cpixw149KCth6wPz66eUsP7HKAV4pump
           </p>
         </div>
