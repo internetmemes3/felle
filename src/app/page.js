@@ -9,19 +9,19 @@ export default function Home() {
           <div className="flex justify-center items-center space-x-8 mt-6">
             <a
               className="text-lg sm:text-2xl text-white cursor-pointer hover:underline"
-              href="#"
+              href="https://x.com/animatedfelle" target="_blank" rel="noopener noreferrer"
             >
-              Twitter
+              X
             </a>
             <a
               className="text-lg sm:text-2xl text-white cursor-pointer hover:underline"
-              href="#"
+                  href="https://t.me/felle_sol" target="_blank" rel="noopener noreferrer"
             >
               Telegram
             </a>
             <a
               className="text-lg sm:text-2xl text-white cursor-pointer hover:underline"
-              href="#"
+              href="https://dexscreener.com/" target="_blank" rel="noopener noreferrer"
             >
               Dexscreener
             </a>
@@ -35,15 +35,12 @@ export default function Home() {
             muted
             preload="auto"
           >
-            <source src="/clip.mov" type="video/quicktime" />
+            <source src="/clip.mp4" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
         </div>
         <div className="w-3/4 px-4 sm:px-10 lg:px-20 text-center sm:text-left">
           <p className="text-white text-sm sm:text-base leading-relaxed">
-            Description about the project. Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
-            blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
-            blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah.
           </p>
         </div>
       </main>
@@ -58,12 +55,10 @@ export default function Home() {
               className="object-contain"
             />
           </div>
-
-          
           <div className="absolute bottom-6 right-0 flex space-x-8 mr-4 ">
             <a
               className=" transition duration-300"
-              href="https://tiktok.com"
+              href="https://www.tiktok.com/@felleanimated"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -77,7 +72,7 @@ export default function Home() {
             </a>
             <a
               className=" transition duration-300"
-              href="https://instagram.com"
+              href="https://www.instagram.com/felleanimated"
               target="_blank"
               rel="noopener noreferrer"
             >
